@@ -28,6 +28,7 @@ To evaluate the EV market size and growth by analyzing historical data, identify
    - Analyze historical data for EV sales, production, and trends.
    - Evaluate market size and growth across different EV segments.
    - Offer recommendations for businesses entering or expanding in the EV market.
+     
 **Skills:**
 Data collection and analysis, market research, Python (Pandas, NumPy), Excel, data visualization (Matplotlib, Seaborn, Tableau), business strategy.
 
