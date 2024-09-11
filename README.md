@@ -1,17 +1,69 @@
 # Prashant Raut - Data Analyst/ Data Scientist Portfolio
 ## About
-Hi, I'm Prashant !  I am on track to completing my degree in Artificial Intelligence And Data Science (B.E. AI & Data Science). I have developed a strong foundation inPython,SQL,data analyst, statistical analysis, data visualization and Machine Learning and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data Analyst/ data scientist. 
+Hi, I'm Prashant!  I am on track to completing my degree in Artificial Intelligence And Data Science (B.E. AI & Data Science). I have developed a strong foundation in Python, SQL, data analysis, statistical analysis, data visualization, and Machine Learning, and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data Analyst/ data scientist. 
 
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in Python,SQL,data analyst, statistical analysis and Machine Learning which I believe will be valuable assets in my role as a data Analyst/ data scientist.
+During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in Python, SQL, data analysis, statistical analysis, and Machine Learning which I believe will be valuable assets in my role as a data Analyst/ data scientist.
 
-In my free time, I enjoy problem solving skills and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+In my free time, I enjoy problem-solving skills and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+This repository showcases skills, shares projects, and tracks my progress in Data Analytics / science-related topics.
 
 
 
 ## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+
+### Restaurant Insights Analysis and Prediction project:
+
+**Introduction:**
+
+This project explores a comprehensive analysis of restaurant data to uncover key insights into customer preferences, services, pricing, and restaurant ratings. It spans multiple levels of data exploration, advanced analysis, and predictive modeling to enhance decision-making in the restaurant industry.
+
+  **Code:** (https://github.com/prashantofficial05/Restaurant-Insights-Analysis-and-Prediction))
+  
+**Goal:**
+The objective is to analyze and predict restaurant ratings by gaining insights into various features such as customer preferences, table booking, delivery services, pricing, and cuisine types, using advanced data science techniques.
+
+**Description:**
+  This project is structured into three levels:
+
+  - **Data Exploration and Analysis:** Conducted foundational data exploration, descriptive analysis, and 
+     geospatial insights on a restaurant dataset to identify popular cuisines, top cities, and patterns in 
+     restaurant distribution.
+  - **Advanced Analysis:** Investigated customer preferences for table booking and online delivery, analyzed 
+     price range impacts on ratings, and performed feature engineering for data enrichment.
+  - **Predictive Modeling:** Developed regression models to predict restaurant ratings, evaluated model 
+     performance, and analyzed customer preferences related to cuisine types and ratings.
+
+     
+**Skills:**
+  - Data Cleaning and Exploration
+  - Descriptive and Statistical Analysis
+  - Feature Engineering
+  - Predictive Modeling (Regression Analysis)
+  - Data Visualization
+  - Tools: Python (Pandas, NumPy, Matplotlib, Seaborn), Scikit-Learn
+
+**Metrics:**
+  - Number of restaurants analyzed: 9,551
+  - Top regression model: Random Forest (Lowest MSE, Highest R²)
+  - Key findings: Higher average ratings for restaurants with table booking and online delivery services.
+
+**Summary:**
+   The project offers a holistic approach to understanding the restaurant industry through in-depth data 
+   analysis and predictive modeling. Key insights include identifying popular cuisines, understanding customer 
+   preferences for services like table booking and online delivery, and predicting restaurant ratings using 
+   advanced regression models.
+
+**Next Steps:**
+ - Implement more sophisticated machine learning models to further enhance predictive accuracy.
+ - Explore customer sentiment analysis based on restaurant reviews to complement quantitative findings.
+ - Extend the analysis to include more datasets from different geographical locations for broader insights.
+
+
+## Portfolio Projects
+In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 
 ### Electric Vehicles Market Size Analysis
