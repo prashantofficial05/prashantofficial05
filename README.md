@@ -1,5 +1,9 @@
 # Prashant Raut - Data Analyst/ Data Scientist Portfolio
-"Data Analyst | Uncovering Insights with Advanced Analytics | Data Scientist | Machine Learning Enthusiast | Transforming Data into Strategic Insights"
+
+    "Data Analyst | Uncovering Insights with Advanced Analytics |Data Scientist |
+     Machine Learning Enthusiast | Transforming Data into Strategic Insights"
+
+
 ## About
 Hi, I'm Prashant!  I am on track to completing my degree in Artificial Intelligence And Data Science (B.E. AI & Data Science). I have developed a strong foundation in Python, SQL, data analysis, statistical analysis, data visualization, and Machine Learning, and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data Analyst/ data scientist. 
 
