@@ -174,3 +174,43 @@ Refine data sources, expand analysis into specific EV sub-segments, and develop 
 **Next Steps:**
   Expand analysis to include market competition, audience demographics, and the impact of content localization.
 
+
+
+### Twitter Stock Market Analysis
+
+**Introduction:**
+
+   Twitter, a popular social media platform known for its concise communication style, has had an interesting 
+   journey in the stock market. With its recent delisting from the New York Stock Exchange, this project aims 
+   to analyze Twitter's entire stock market timeline.
+
+  **Code:** (https://github.com/prashantofficial05/Twitter-Stock-Market-Analysis)
+  
+**Goal:**
+  To explore Twitter's stock market performance from its IPO to its recent delisting, uncovering key events, 
+  trends, and factors that influenced its market valuation.
+
+**Description:**
+  - **Historical Performance:** Analyze Twitter’s stock price movements, trading volume, and market 
+    capitalization over time.
+  - **Event Impact Analysis:** Study how major events (e.g., earnings reports, leadership changes, product 
+     launches) affected stock performance.
+  - **Sentiment Analysis:** Correlate market movements with public sentiment using Twitter data.
+  - **Comparison with Competitors:** Compare Twitter's stock market performance against other social media 
+     giants.
+     
+**Skills:**
+  Python (Pandas, NumPy), Data Visualization (Matplotlib, Seaborn), Sentiment Analysis (NLTK, TextBlob), 
+   Financial Analysis.
+
+**Metrics:**
+  Stock price trends, volatility, trading volume, sentiment scores, and event impacts.
+
+**Summary:**
+  This analysis provides insights into Twitter's market journey, highlighting the factors that influenced its 
+  stock performance and the implications of its delisting.
+
+**Next Steps:**
+  Expand the analysis to include broader market conditions, investor behavior, and comparison with future 
+  social media IPOs.
+
