@@ -13,6 +13,49 @@ This repository showcases skills, shares projects, and tracks my progress in Dat
 ## Portfolio Projects
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+### Coffee Shop Sales Analysis:
+
+**Introduction:**
+
+This project involves an in-depth exploratory data analysis (EDA) of sales transactions from Maven Roasters, a fictitious coffee shop chain with three locations in New York City. The goal is to derive actionable insights from the sales data to help optimize business performance.
+
+  **Code:** (https://github.com/prashantofficial05/Coffee-Shop-Sales-Analysis))
+  
+**Goal:**
+To analyze sales data to identify trends, determine peak days, evaluate product performance, and provide recommendations to enhance sales strategies and product offerings.
+
+**Description:**
+  The project utilizes sales transaction data to:
+
+  - **Analyze Sales Trends:** Understand growth patterns and seasonality of sales over time
+  - **Identify Busiest Days:** Determine the busiest days of the week and explore contributing factors.
+  - **Evaluate Product Performance:** Assess which products are top sellers and which contribute the most to 
+     revenue.
+
+     
+**Skills:**
+  - **Data Analysis:** Python (Pandas), SQL
+  - **Data Visualization:** Python (Matplotlib, Seaborn)
+  - **Tools:** Jupyter Notebook for analysis and visualization
+
+**Metrics:**
+  - **Sales Trends:** Growth patterns, seasonal variations
+  - **Busiest Days:** Day of the week with highest sales
+  - **Product Performance:** Sales volume and revenue contribution of each product
+**Summary:**
+   The analysis provided insights into sales trends, peak sales days, and the performance of various products. 
+   Key findings include identifying top-selling items and their revenue impact. Recommendations were made for 
+   optimizing product offerings and promotional strategies.
+
+**Next Steps:**
+  - **Implement Recommendations:** Apply findings to refine product offerings and adjust promotional activities.
+  - **Extended Analysis:**  Conduct further analysis on customer demographics and sales patterns to gain deeper 
+      insights.
+  - **Data Enrichment:** Incorporate additional data sources (e.g., customer feedback, inventory levels) for a 
+     more comprehensive analysis.
+
+
+
 
 ### Restaurant Insights Analysis and Prediction project:
 
