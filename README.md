@@ -288,7 +288,49 @@ Refine data sources, expand analysis into specific EV sub-segments, and develop 
   providing valuable insights for ride-sharing service optimization.
   
 **Next Steps:**
-  Expand the analysis to include weather conditions, special events, and demographic data to further understand factors affecting Uber usage.
+  Expand the analysis to include weather conditions, special events, and demographic data to further understand 
+  factors affecting Uber usage.
+
+
+### App Reviews Sentiment Analysis
+
+**Introduction:**
+
+   App Reviews Sentiment Analysis evaluates user feedback to understand the sentiments (positive, negative, or 
+   neutral) expressed in mobile app reviews. This analysis helps app developers and businesses prioritize 
+   updates, enhance user satisfaction, and maintain a positive community.
+
+  **Code:** (https://github.com/prashantofficial05/App-Reviews-Sentiment-Analysis-using-Python)
+  
+**Goal:**
+  To analyze user reviews of mobile applications to determine overall sentiment, uncover common themes, and 
+  provide actionable insights for app improvement.
+
+**Description:**
+  - **Data Collection:** Gather a dataset of app reviews.
+  - **Exploratory Data Analysis (EDA):** Analyze review length, ratings, and other features.
+  - **Sentiment Labeling:** Use tools like TextBlob or NLTK to categorize reviews as positive, negative, or 
+     neutral.
+  - **Sentiment Distribution:** Determine the overall sentiment distribution in the dataset.
+  - **Sentiment-Rating Relationship:** Explore the relationship between sentiment and the ratings given.
+  - **Thematic Analysis:** Identify common themes or frequently used words across different sentiment 
+     categories.
+     
+**Skills:**
+  Python (Pandas, NumPy), Sentiment Analysis (TextBlob, NLTK), Data Visualization (Matplotlib, Seaborn), and 
+  Natural Language Processing (NLP).
+
+**Metrics:**
+  Sentiment distribution, sentiment polarity scores, common themes, and the correlation between sentiments and 
+   ratings.
+
+**Summary:**
+  The analysis provides insights into user sentiments, highlights common issues or praise points, and helps 
+  prioritize feature updates and improvements.
+  
+**Next Steps:**
+  Expand analysis to include reviews from multiple platforms, incorporate advanced NLP models (e.g., BERT), and 
+  analyze sentiment trends over time.
 
 
 prashantofficial05/README.md at main · prashantofficial05/prashantofficial05
