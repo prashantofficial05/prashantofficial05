@@ -214,3 +214,40 @@ Refine data sources, expand analysis into specific EV sub-segments, and develop 
   Expand the analysis to include broader market conditions, investor behavior, and comparison with future 
   social media IPOs.
 
+
+
+  ### iPhone Sales Analysis
+
+**Introduction:**
+
+   This project analyzes the top 10 highest-rated iPhones on Flipkart to uncover which models are most popular 
+   in India and explore the factors contributing to their high ratings.
+
+  **Code:** (https://github.com/prashantofficial05/iPhones-Sales-Analysis)
+  
+**Goal:**
+  To identify the most loved iPhone models in India based on user ratings and reviews and analyze the key 
+  factors driving their popularity.
+
+**Description:**
+  - **Data Collection:** Gather data on iPhone models, ratings, reviews, and pricing from Flipkart.
+  - **Rating Analysis:** Determine the highest-rated iPhone models and explore their features.
+  - **Review Sentiment Analysis:** Analyze customer reviews to understand the sentiments and factors driving 
+     high ratings.
+  - **Price vs. Popularity:** Examine the relationship between the iPhone price range and customer preferences.
+     
+**Skills:**
+  Data Scraping (BeautifulSoup, Selenium), Data Analysis (Python - Pandas), Data Visualization (Matplotlib, 
+    Seaborn), Sentiment Analysis (NLTK, TextBlob).
+
+**Metrics:**
+  Top-rated iPhone models, sentiment scores, price-to-popularity ratio, feature analysis.
+
+**Summary:**
+  This analysis provides insights into the most favored iPhone models in India, factors influencing their 
+  popularity, and the relationship between price and customer satisfaction.
+  
+**Next Steps:**
+  Expand the analysis to include other platforms, compare with Android phones, and explore trends over 
+  different periods.
+
