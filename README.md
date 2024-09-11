@@ -9,6 +9,7 @@ In my free time, I enjoy problem-solving skills and techniques, and I am always 
 This repository showcases skills, shares projects, and tracks my progress in Data Analytics / science-related topics.
 
 [Portfolio Projects](https://github.com/prashantofficial05/prashantofficial05/blob/main/README.md)
+
 [LinkedIn](https://www.linkedin.com/in/prashantraut55/)
 
 ## Portfolio Projects
