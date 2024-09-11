@@ -138,3 +138,39 @@ Provides insights into EV market trends, size, growth, and opportunities, suppor
 
 **Next Steps:**
 Refine data sources, expand analysis into specific EV sub-segments, and develop future market scenarios.
+
+
+
+### Netflix Data Analysis with Python
+
+**Introduction:**
+
+   Netflix, a leader in the streaming industry, has evolved from a DVD rental service to a major producer of 
+   original content. This analysis explores Netflix's content strategy, trends, and business focus using Python.
+
+  **Code:** (https://github.com/prashantofficial05/Netflix-Data-Analysis-with-Python-)
+  
+**Goal:**
+  To analyze various aspects of Netflix data, including content availability, production focus, audience 
+  preferences, and sentiment trends.
+
+**Description:**
+  - **Content Availability:** Examine the catalog of Netflix shows and movies.
+  - **Content Strategy:** Identify focus areas, including original productions.
+  - **Network Analysis:** Explore relationships between actors, directors, and genres.
+  - **Sentiment Analysis:** Analyze viewer sentiment on Netflix's content.
+     
+**Skills:**
+  Python (Pandas, Matplotlib, Seaborn), Network Analysis (NetworkX), Natural Language Processing (NLTK, 
+  TextBlob).
+
+**Metrics:**
+  Content volume, original vs. licensed content ratio, network relationships, sentiment distribution.
+
+**Summary:**
+  This project provides insights into Netflix’s content strategy, production focus, and viewer sentiment, 
+  helping to understand the platform's evolving business model.
+
+**Next Steps:**
+  Expand analysis to include market competition, audience demographics, and the impact of content localization.
+
