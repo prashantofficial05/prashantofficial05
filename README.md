@@ -2,13 +2,14 @@
 ## About
 Hi, I'm Prashant!  I am on track to completing my degree in Artificial Intelligence And Data Science (B.E. AI & Data Science). I have developed a strong foundation in Python, SQL, data analysis, statistical analysis, data visualization, and Machine Learning, and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data Analyst/ data scientist. 
 
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in Python, SQL, data analysis, statistical analysis, and Machine Learning which I believe will be valuable assets in my role as a data Analyst/ data scientist.
+During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience through an internship as a data science intern in Python, SQL, data analysis, statistical analysis, and Machine Learning which I believe will be valuable assets in my role as a data Analyst/ data scientist.
 
 In my free time, I enjoy problem-solving skills and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
 This repository showcases skills, shares projects, and tracks my progress in Data Analytics / science-related topics.
 
-
+[Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+[LinkedIn](https://www.linkedin.com/in/prashantraut55/)
 
 ## Portfolio Projects
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
