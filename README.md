@@ -17,8 +17,11 @@ In this section I will list data analytics projects briefly describing the techn
 ### Electric Vehicles Market Size Analysis
 
 **Introduction:**
+
 A guide to analyzing the market size for Electric Vehicles (EVs) to understand potential sales, market saturation, and growth opportunities.
+
   **Code:** (https://github.com/prashantofficial05/Electric-Vehicles-Market-Size-Analysis)
+  
 **Goal:**
 To evaluate the EV market size and growth by analyzing historical data, identifying trends, and providing strategic business recommendations.
 
