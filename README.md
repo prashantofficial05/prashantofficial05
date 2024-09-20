@@ -169,10 +169,6 @@ The objective is to analyze and predict restaurant ratings by gaining insights i
  - Extend the analysis to include more datasets from different geographical locations for broader insights.
 
 
-## Portfolio Projects
-In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
-
-
 ### Electric Vehicles Market Size Analysis
 
 **Introduction:**
