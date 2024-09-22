@@ -61,7 +61,7 @@ To analyze sales data to identify trends, determine peak days, evaluate product 
   - **Data Enrichment:** Incorporate additional data sources (e.g., customer feedback, inventory levels) for a 
      more comprehensive analysis.
 
-### Customer Behaviour Analysis:
+### Customer Behaviour Analysis in SQL
 
 **Introduction:**
 
@@ -89,7 +89,7 @@ To analyze Danny's Diner's customer behavior to help improve customer retention,
   - **Data Analysis:** Utilizing SQL for analyzing customer spending patterns and menu preferences.
     
   - **Tools:**
-      **SQL: PostgreSQL's for data queries and report generation.
+      **SQL: PostgreSQL for data queries and report generation.
 
 **Metrics:**
   - **Total Spending:** Aggregate spending per customer.
@@ -200,7 +200,7 @@ Provides insights into EV market trends, size, growth, and opportunities, suppor
 Refine data sources, expand analysis into specific EV sub-segments, and develop future market scenarios.
 
 
-### Financial Transactions Analysis
+###  Financial Transactions Analysis in SQL
 Introduction:**
 
    A comprehensive analysis of financial transactions in a fictional bank to understand customer behavior, 
@@ -364,7 +364,7 @@ Introduction:**
   Expand the analysis to include other platforms, compare with Android phones, and explore trends over 
   different periods.
 
-# SQL Airline Routing Planning Analysis 
+#  Airline Routing Planning Analysis in SQL
 
 Airline Routing Planning Analysis Introduction:  A comprehensive analysis of airline routing and flight planning to gain insights into airline operations, route efficiency, flight pricing trends, and customer demand patterns. This project uses fictional data to explore key aspects of airline route management and optimize route planning strategies.
 
