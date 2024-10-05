@@ -1,4 +1,4 @@
-# Prashant Raut - Data Analyst/ Data Scientist Portfolio
+# Prashant Raut - Data Analyst/ Data Scientist  Portfolio
 
     "Data Analyst | Uncovering Insights with Advanced Analytics |Data Scientist |
      Machine Learning Enthusiast | Transforming Data into Strategic Insights"
