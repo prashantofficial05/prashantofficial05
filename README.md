@@ -47,15 +47,18 @@ To analyze movie review data, identify sentiment patterns, and build a machine l
   - **Model Performance:** The classification models' accuracy, precision, recall, and F1-score.
   - **Word Clouds:** Visual representation of frequently occurring words in positive and negative reviews.
 **Summary:**
-   The analysis revealed the sentiment distribution within movie reviews, helping identify the most frequent terms and their associations 
-   with positive or negative sentiments. The sentiment classification models provided good accuracy, and Logistic Regression was found to 
-   be the most effective model. Recommendations include utilizing sentiment analysis for movie marketing and improving strategies based 
-   on audience feedback.
+   The analysis revealed the sentiment distribution within movie reviews, helping identify the most 
+    frequent terms and their associations 
+   with positive or negative sentiments. The sentiment classification models provided good accuracy, and 
+   Logistic Regression was found to 
+   be the most effective model. Recommendations include utilizing sentiment analysis for movie marketing 
+   and improving strategies based on audience feedback.
+
 **Next Steps:**
   - **Improve Model Accuracy:** Experiment with more advanced NLP models like LSTM or BERT.
   - **Deploy the Model:** Build a web application using Flask for real-time sentiment analysis.
-  - **Extend Analysis:** Incorporate other movie-related data such as genre, release year, and box office performance for more 
-     comprehensive insights.
+  - **Extend Analysis:** Incorporate other movie-related data such as genre, release year, and box office 
+       performance for more comprehensive insights.
 
 
 ## Portfolio Projects
