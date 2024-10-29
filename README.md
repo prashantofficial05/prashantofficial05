@@ -26,7 +26,7 @@ This repository showcases skills, shares projects, and tracks my progress in Dat
 
 
 **Goal:**
-To analyze movie review data, identify sentiment patterns, and build a machine learning model that accurately predicts the sentiment of each review.
+To analyze movie review data, identify sentiment patterns, and build a machine-learning model that accurately predicts the sentiment of each review.
 
 **Description:**
   The project utilizes movie review data to:
