@@ -74,10 +74,12 @@ This repository showcases skills, shares projects, and tracks my progress in Dat
   - **Plan Optimization:** Offer incentives or content bundles to retain Premium subscribers.
   - **Product Experimentation:** Integrate ML churn prediction to reach at-risk users proactively.
 
+    
+
 # Sentiment-Analysis-on-Movie-Reviews
  **Introduction:**
  
- This project conducts an exploratory data analysis (EDA) and builds a sentiment analysis model using the IMDb Movie Reviews dataset. The the 
+ This project conducts an exploratory data analysis (EDA) and builds a sentiment analysis model using the IMDb Movie Reviews dataset. The the the 
  objective is to classify reviews as positive, negative, or neutral to gain insights into customer sentiments and improve decision-making 
  for movie marketing strategies.
 
