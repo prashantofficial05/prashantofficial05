@@ -5,9 +5,9 @@
 
 
 ## About
-Hi, I'm Prashant!  I have recently completed my degree in **Artificial Intelligence And Data Science**. I have developed a strong foundation in **Python, SQL, data analysis, statistical analysis, data visualization, and Machine Learning,** and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data Analyst/ data scientist. 
+Hi, I'm Prashant!  I have recently completed my degree in **Artificial Intelligence and Data Science**. I have developed a strong foundation in **Python, SQL, data analysis, statistical analysis, data visualization, and Machine Learning,** and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data Analyst/ data scientist. 
 
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience through an internship as a data science intern in Python, SQL, data analysis, statistical analysis, and Machine Learning which I believe will be valuable assets in my role as a data Analyst/ data scientist.
+During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience through an internship as a data science intern in Python, SQL, data analysis, statistical analysis, and Machine Learning, which I believe will be valuable assets in my role as a data Analyst/ data scientist.
 
 In my free time, I enjoy problem-solving skills and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
@@ -17,10 +17,67 @@ This repository showcases skills, shares projects, and tracks my progress in Dat
 
 [LinkedIn](https://www.linkedin.com/in/prashantraut55/)
 
+
+### Prime Video User Engagement Churn Analysis
+
+**Introduction:**
+    This project focuses on an exploratory data analysis (EDA) of fictional customer data from Amazon Prime Video India. The objective is to understand customer engagement, identify 
+  behavioral patterns, and analyze user churn. These insights aim to support Amazon in enhancing retention strategies, optimizing the user experience, and improving subscription-based 
+  decision-making. 
+  
+**Goal:**
+
+  To analyze user engagement and churn behavior for Amazon Prime Video India to optimize retention 
+  strategies, personalize content offerings, and improve overall customer satisfaction.
+
+**Description:**
+ The project uses data from a fictional Amazon Prime Video user base to answer key business questions, including:
+
+  - **Churn Prediction:** Identify users at high risk of churning.
+  - **Engagement Patterns:** Analyze usage metrics such as watch time, login frequency, and subscription tenure.
+  - **Plan Performance:** Compare engagement across different subscription plans (Basic, Standard, Premium).
+  - **Genre Preferences:** Analyze most-watched genres to guide personalized recommendations..
+  - **Tenure Analysis:** Evaluate how long users have been active subscribers.
+   
+**Skills:**
+  - **SQL Queries:** Complex SQL queries using CTEs, Window Functions, CASE statements, Aggregations, and Joins.
+  - **Python:** Data preprocessing and statistical analysis (optional but complementary).
+  - **Data Visualization:** Charts and dashboards using Power BI and Seaborn/Matplotlib.
+  - **Analytics:** Customer segmentation, cohort analysis, churn classification.
+    
+  - **Tools:**
+      **SQL:** PostgreSQL for querying and reporting.
+      **Python:** Pandas, NumPy, Matplotlib for advanced analysis and visual storytelling.
+      **BI Tools:** Power BI for interactive dashboards and executive reports.
+
+**Metrics:**
+  - **Churn Rate:** % of users who have not logged in during the past 30 days.
+  - **Watch Time:** Average monthly hours watched by plan.
+  - **Tenure:** Number of days since subscription start.
+  - **Engagement Score:** Composite metric based on logins, watch time, and recency.
+  - **Retention Rate:** Based on cohort behavior across monthly intervals.
+    
+**Key Findings:**
+
+   - **Premium Plan** users showed the highest average watch time, but had a slightly higher churn rate than 
+        Standard users.
+   - **Users with high activity in the first 7 days** post-subscription had a 40% higher retention rate.
+   - **Drama and Thriller** are the most viewed genres across all regions.
+   - **Over 30% of churned users hadn’t logged in for over 45 days.
+   - Early personalization and targeted engagement can significantly reduce churn for new users.
+
+
+**Next Steps:**
+  - **Churn Reduction Campaigns:** Launch re-engagement emails for users inactive > 30 days.
+  - **Genre-Based Targeting:** Use top genres (Drama, Thriller) to promote similar content.
+  - **A/B Testing:** Test personalized recommendations for new users in their first week.
+  - **Plan Optimization:** Offer incentives or content bundles to retain Premium subscribers.
+  - **Product Experimentation:** Integrate ML churn prediction to reach at-risk users proactively.
+
 # Sentiment-Analysis-on-Movie-Reviews
  **Introduction:**
  
- This project conducts an exploratory data analysis (EDA) and builds a sentiment analysis model using the IMDb Movie Reviews dataset. The 
+ This project conducts an exploratory data analysis (EDA) and builds a sentiment analysis model using the IMDb Movie Reviews dataset. The the 
  objective is to classify reviews as positive, negative, or neutral to gain insights into customer sentiments and improve decision-making 
  for movie marketing strategies.
 
