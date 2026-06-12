@@ -1,4 +1,4 @@
-# Prashant Raut - Data Analyst/ Data Scientist  Portfolio
+
 <div align="center">
 
 <!-- ANIMATED TYPING BANNER -->
