@@ -30,7 +30,7 @@
 
 ```python
 prashant = {
-    "role"       : "AI/ML Engineer & Data Analyst",
+    "role"       : "AI/ML Engineer & Data Scientist, Data Analyst",
     "location"   : "Pune, Maharashtra, India 🇮🇳",
     "education"  : "B.E. — AI & Data Science, Shree Ramchandra College of Engineering",
     "currently"  : "Building GenAI apps with LangChain, RAG, GCP & FastAPI",
